@@ -1,0 +1,71 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/completeTraining/completeTraining",
+          "pathName": "pages/completeTraining/completeTraining",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/sportsDetails/sportsDetails",
+          "pathName": "pages/sportsDetails/sportsDetails",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/fitnessStart/fitnessStart",
+          "pathName": "pages/fitnessStart/fitnessStart",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/completeTraining/completeTraining",
+          "pathName": "pages/completeTraining/completeTraining",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/fitnessStart/fitnessStart",
+          "pathName": "pages/fitnessStart/fitnessStart",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/sportsDetails/sportsDetails",
+          "pathName": "pages/sportsDetails/sportsDetails",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/fitnessStart/fitnessStart",
+          "pathName": "pages/fitnessStart/fitnessStart",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/sportsDetails/sportsDetails",
+          "pathName": "pages/sportsDetails/sportsDetails",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/fitnessStart/fitnessStart",
+          "pathName": "pages/fitnessStart/fitnessStart",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
